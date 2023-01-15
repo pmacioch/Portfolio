@@ -7,5 +7,11 @@ My name is Patryk Macioch, I finished bachelor studies - specialization internat
 + *[Trello](https://trello.com/)*, *[Jira](https://www.atlassian.com/software/jira0)* - Issue tracking and project management tool for developers
 + *Oracle SQL Developer*
 + *MySQL Workbench*
-+ *GitHub*
++ *Github*
 + *GIT*
+# Tech skills
++ ***SQL***
++ ***MySQL***
++ ***GIT***
++ ***Postman***
++ ***Jira***
