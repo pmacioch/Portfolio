@@ -24,3 +24,5 @@ My name is Patryk Macioch, I finished bachelor studies - specialization internat
 + ***Creating contorl list***
 # Courses
 + *[Testerzy.pl](https://testerzy.pl/)* - profession tester
+# Books
++ ***R.Smilgin - Zawód tester***
