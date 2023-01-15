@@ -16,9 +16,9 @@ My name is Patryk Macioch, I finished bachelor studies - specialization internat
 + ***Postman***
 + ***Jira***
 + ***Software testing***
-+ ***Creating test cases***
 + ***Reporting bugs***
 + ***Test plan***
++ ***Creating test cases***
 + ***Creating decision tables***
 + ***Creating test scenario****
 + ***Creating contorl list***
