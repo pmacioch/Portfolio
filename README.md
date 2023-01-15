@@ -26,3 +26,8 @@ My name is Patryk Macioch, I finished bachelor studies - specialization internat
 + *[Testerzy.pl](https://testerzy.pl/)* - profession tester
 # Books
 + ***R.Smilgin - Zawód tester***
+# Groups on facebook 
++ ***Tester oprogramowania - wsparcie na starcie***
++ ***Testowanie oprogramowania***
+# Recommended blogs
++ *[Testerzy.pl](https://testerzy.pl/baza-wiedzy)* 
