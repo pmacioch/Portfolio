@@ -27,7 +27,7 @@ My name is Patryk Macioch, I finished bachelor studies - specialization internat
 # Books
 + ***R.Smilgin - Zawód tester***
 # Groups on facebook 
-+ ***Tester oprogramowania - wsparcie na starcie***
++ *[Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)*
 + ***Testowanie oprogramowania***
 # Recommended blogs
 + *[Testerzy.pl](https://testerzy.pl/baza-wiedzy)* 
