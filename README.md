@@ -34,3 +34,5 @@ My name is Patryk Macioch, I finished bachelor studies - specialization internat
 + Individual project - testing technology PWA site: [m.olx.pl](https://www.olx.pl/)
   * *[Test plan](https://drive.google.com/file/d/13LxGsyXQVbuoBA4y0yeA8qGfdndMAsUm/view?usp=sharing)*
   * *[Test cases](https://drive.google.com/file/d/1KkTC1eoHNPsX64Hz2rEMBjx7Mebk34J9/view?usp=sharing)*
+  * *[Defects](https://drive.google.com/file/d/1NH9FfhJW5ajdfh0lcU9BYEIoce5rPHNa/view?usp=sharing)*
+  * *[Report](https://drive.google.com/file/d/1G5oFjRxQq4ekkZ-GuI7Clex8mJUpvFOX/view?usp=sharing)*
