@@ -32,4 +32,4 @@ My name is Patryk Macioch, I finished bachelor studies - specialization internat
 + *[Testerzy.pl](https://testerzy.pl/baza-wiedzy)* 
 # My projects
 + Individual project - testing technology PWA site: *[m.olx.pl](https://www.olx.pl/)*
-+ * *[Test cases](https://drive.google.com/file/d/1KkTC1eoHNPsX64Hz2rEMBjx7Mebk34J9/view?usp=sharing)*
+ * *[Test cases](https://drive.google.com/file/d/1KkTC1eoHNPsX64Hz2rEMBjx7Mebk34J9/view?usp=sharing)*
