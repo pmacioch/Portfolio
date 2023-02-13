@@ -30,3 +30,5 @@ My name is Patryk Macioch, I finished bachelor studies - specialization internat
 + *[Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)*
 # Recommended blogs
 + *[Testerzy.pl](https://testerzy.pl/baza-wiedzy)* 
+# My projects
++ *** Invidual project - testing technology PWA site 
