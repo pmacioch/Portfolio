@@ -19,7 +19,7 @@ My name is Patryk Macioch, I finished bachelor studies - specialization internat
 + ***Test plan***
 + ***Creating test cases***
 + ***Creating decision tables***
-+ ***Creating test scenario****
++ ***Creating test scenario***
 + ***Creating contorl list***
 # Courses
 + *[Testerzy.pl](https://testerzy.pl/)* - profession tester
