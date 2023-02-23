@@ -4,6 +4,7 @@ My tester's portfolio
 My name is Patryk Macioch, I finished my bachelor's studies - with a specialization in international logistics. I'm in the process to change my profession, I am interested in software testing and here I want to share my all gained experience. I think that software tester is a very interesting job, where we have a lot of development opportunities. I'd like to join the team where I'll be can learn new skills and gain knowledge and experience.
 I have many years of experience in transport branch, and I am well versed in the systems of this industry, I had occasion to do explore tests systems before their accept. 
 # Tools
++ Basic knowledge:
 + ***Databases***: Oracle Database, MySQL, SQL
 + ***Testing***: Postman
 + ***Version control system***: GIT
